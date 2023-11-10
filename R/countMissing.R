@@ -30,7 +30,6 @@
 #'
 #' @examples
 #' countMissing(airquality, Month)
-#' countMissing(Month)
 #' countMissing(airquality, Month, .groups = "keep")
 #'
 #' @export

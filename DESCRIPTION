@@ -3,7 +3,7 @@ Title: Count Missing Values Function
 Version: 0.0.1
 Authors@R: 
     person("Johnson", "Chen", , "tingyu.chen@stat.ubc.ca", role = c("aut", "cre"))
-Description: Do you wish to find the missing values? Use this package to count the missing values of dataset by group
+Description: Do you wish to find the missing values? Use this package to count the missing values of dataset by group.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

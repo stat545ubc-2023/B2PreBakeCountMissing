@@ -40,7 +40,6 @@ a wrapper around the \code{group_by()} and
 }
 \examples{
 countMissing(airquality, Month)
-countMissing(Month)
 countMissing(airquality, Month, .groups = "keep")
 
 }
